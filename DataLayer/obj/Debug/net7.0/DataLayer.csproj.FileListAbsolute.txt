@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\Adrian\Desktop\Specialisatie_Airline\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
